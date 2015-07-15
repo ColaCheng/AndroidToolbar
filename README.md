@@ -120,7 +120,7 @@ toolbar.setTitle("My Title");
 // Sub Title
 toolbar.setSubtitle("Sub title");
 ```
-Add icon in the `menu_main.xml` as shown below
+Add item in the `menu_main.xml` as shown below
 
 ```xml
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
